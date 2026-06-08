@@ -1,0 +1,21 @@
+{
+  "name": "search-dinamic-json-wromo",
+  "version": "1.0.0",
+  "description": "A universal product search widget with Data from JSON with CDN integration.",
+  "main": "index.js",
+  "unpkg": "json-search-wromo.js",
+  "jsdelivr": "json-search-wromo.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ghepes/search-dinamic-json-wromo.git"
+  },
+  "keywords": [
+    "search",
+    "product",
+    "widget",
+    "json",
+    "cdn"
+  ],
+  "author": "Ghepes",
+  "license": "MIT"
+}
