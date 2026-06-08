@@ -1,2 +1,2 @@
-# search-dinamic-sheet-wromo
-Dynamic sheet data added to any website to form Search by wromo
+# search-dinamic-json-wromo
+Dynamic json data added to any website your Search Bar :  by Wromo.com  (Iulian Ghepes)
