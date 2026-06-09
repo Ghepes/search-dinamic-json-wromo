@@ -82,22 +82,9 @@ Good luck with the search bar!
   crossorigin="anonymous" defer>
 </script>
 ````
-## Version 1.0.0 
-````
-<script 
-  src="https://cdn.jsdelivr.net/npm/search-dinamic-json-wromo@1.0.0/json-search-wromo.js" 
-  integrity="sha512-bL/o0zKWOvz5NMaBmdd+TGT8EN0Aj36gzNaybs02zjbJHusNt8M9fLoPOSPbPUwJvmWVl2nn6hM//AOWvXx78g==" 
-  crossorigin="anonymous" defer>
-</script>
-````
-
 
 ## Example integrity
 ![SRI Integrity Example](/img/integrity.png)
 
 
 
-
-
-
----
